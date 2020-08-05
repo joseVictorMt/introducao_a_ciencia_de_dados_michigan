@@ -6,7 +6,7 @@ Nessa pasta se encontra todo o meu material da semana 1, onde fica meu Notebook 
 
 ## week_2
 
-Nessa pasta se encontra o meu material da semana 2, que consiste em um Notebook Jupyter explicando e mostrando exemplos de Séries e DataFrames, além de operações com os mesmos.
+Nessa pasta se encontra o meu material da semana 2, que consiste em um Notebook Jupyter explicando e mostrando exemplos de Séries e DataFrames, operações com essas duas estruturas de dados, e minhas resoluções dos exercícios dessa semana.
 
 ## week_3
 
